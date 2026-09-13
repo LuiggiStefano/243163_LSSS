@@ -13,6 +13,17 @@
 						"type": "uint256"
 					}
 				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_edad",
+						"type": "uint256"
+					}
+				],
 				"name": "cambiarEdad",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -60,11 +71,11 @@
 	},
 	"sources": {
 		"contracts/5_VariablesSimples.sol": {
-			"keccak256": "0x102eb60598e368d53a424483de3485d365f0dec9ba2fe88ba0326ecae349a3a3",
+			"keccak256": "0x5a97f9929b3cfa29602df5f551b071d17d4373492212106fbd33574ac79bcf14",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://205bf032235592b3f13017271dfbad0a1f692d8b5154c95a8e416be4240ca8c2",
-				"dweb:/ipfs/QmUech1XXx41jUgv3DFNsbEMEH6aC82UTz2jTt7jxmyiP7"
+				"bzz-raw://e2e6085e64e67d4655d08d9279d5d0bfccf223fbcb8975149082ca60b4736772",
+				"dweb:/ipfs/QmUMRykRGoXZ9qPqgf1tGWzfF4RgSfTDiSgad9FMyfeLJz"
 			]
 		}
 	},
